@@ -1,0 +1,3 @@
+animals = gameSystem
+add-animal = add-game
+animal-input
